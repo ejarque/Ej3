@@ -6,7 +6,7 @@ public class Calculadora {
 	{
 
 		int n3=n1+n2;
-		return n3;
+		return n3*3;
 
 	}
 	public static int resta(int n1, int n2)
